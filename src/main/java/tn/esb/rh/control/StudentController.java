@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import tn.esb.rh.entity.Student;
 import tn.esb.rh.service.IStudentService;
-
+// test
 @RestController
 @AllArgsConstructor
 @RequestMapping("/student")
