@@ -33,7 +33,7 @@ services:
     tty: true
 
   app-school-frontend:
-    image: mouradhassini/student-front-image:1.0.0
+    image: jihedbt/student-front-image:1.0.0
     restart: on-failure
     ports:
       - "8585:85"
